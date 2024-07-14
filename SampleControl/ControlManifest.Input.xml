@@ -5,8 +5,8 @@
     control-type="standard">
     <external-service-usage enabled="false">
     </external-service-usage>
-    <property name="sampleProperty" display-name-key="Property_Display_Key"
-      description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="eventsData" display-name-key="Events Data"
+      description-key="Data for calendar events" of-type="SingleLine.Text" usage="bound" />
     <resources>
       <code path="index.ts" order="1" />
     </resources>
