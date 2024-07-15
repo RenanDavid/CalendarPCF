@@ -11,7 +11,7 @@
     Condition="Exists('$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props')" />
 
   <PropertyGroup>
-    <Name>Calendar APP</Name>
+    <Name>CalendarAPP</Name>
     <ProjectGuid>ef8d48bf-3c3e-4e84-aaf7-b8d26210d462</ProjectGuid>
     <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
   </PropertyGroup>
